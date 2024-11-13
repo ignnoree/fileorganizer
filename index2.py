@@ -52,7 +52,7 @@ def organize_files(directory):
             print(f"Moved {filename} to Others")
 
 
-folder_to_organize = 'example/path/somewhere'
+folder_to_organize = 'example/path/somewhere'  #targer folder here 
 
 organize_files(folder_to_organize)
 print('Done')
